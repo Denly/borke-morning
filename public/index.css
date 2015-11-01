@@ -1,0 +1,9 @@
+.getcall {
+	background-color: green;
+	height: 800px;
+	text-align: center;
+}
+
+.getcall img{
+	border-radius: 50%;
+}
